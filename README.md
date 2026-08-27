@@ -22,6 +22,19 @@ You can stay up to date with my skills here:
 
 ## Install
 
+### As a Claude Code plugin marketplace
+
+This repo is a [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces). Add it once, then install only the skills you want:
+
+```
+/plugin marketplace add Nagibator9669/skills-design
+/plugin install animate@skills-design
+```
+
+Each entry in the [reference](#reference) below is installable the same way — swap `animate` for `emil-design-eng`, `write-swift`, `ask-sonner`, etc. Installed skills run as `/plugin-name:skill-name`, e.g. `/animate:animate`.
+
+### With the skills CLI
+
 ```bash
 npx skills@latest add emilkowalski/skills
 ```

@@ -1,0 +1,19 @@
+{
+  "name": "animate",
+  "displayName": "Animate",
+  "description": "Build an animation from scratch with the right easing, duration, properties, and exit behavior \u2014 Emil Kowalski's animation philosophy, applied.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "motion",
+    "css",
+    "transitions",
+    "design-engineering"
+  ]
+}

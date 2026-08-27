@@ -1,0 +1,17 @@
+{
+  "name": "review-animations",
+  "displayName": "Review Animations",
+  "description": "Reviews animation and motion code against a high craft bar derived from Emil Kowalski's design engineering philosophy.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "code-review",
+    "motion"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "find-animation-opportunities",
+  "displayName": "Find Animation Opportunities",
+  "description": "Search a codebase or UI for places that don't animate but should, and reject everything that shouldn't.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "audit",
+    "ui-review"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "apple-design",
+  "displayName": "Apple Design",
+  "description": "Apple's principles for fluid, physical interface motion \u2014 from WWDC design talks \u2014 translated for the web.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "apple",
+    "gestures",
+    "springs",
+    "typography",
+    "motion"
+  ]
+}
