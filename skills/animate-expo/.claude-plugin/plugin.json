@@ -1,0 +1,20 @@
+{
+  "name": "animate-expo",
+  "displayName": "Animate (Expo)",
+  "description": "Build React Native and Expo animations that survive a strict review on a real device \u2014 Reanimated, Gesture Handler, and haptics done right.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "react-native",
+    "expo",
+    "reanimated",
+    "gestures",
+    "haptics"
+  ]
+}

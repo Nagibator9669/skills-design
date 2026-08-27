@@ -1,0 +1,18 @@
+{
+  "name": "animation-vocabulary",
+  "displayName": "Animation Vocabulary",
+  "description": "Reverse-lookup glossary that turns a vague description of a motion effect into its exact term, so you know what to ask for.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "motion",
+    "glossary",
+    "vocabulary"
+  ]
+}

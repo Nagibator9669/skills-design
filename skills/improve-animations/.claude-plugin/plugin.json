@@ -1,0 +1,18 @@
+{
+  "name": "improve-animations",
+  "displayName": "Improve Animations",
+  "description": "Survey a codebase's animation and motion code, then produce a prioritized audit and implementation plans for other agents to execute.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "animation",
+    "audit",
+    "codebase-review",
+    "planning"
+  ]
+}

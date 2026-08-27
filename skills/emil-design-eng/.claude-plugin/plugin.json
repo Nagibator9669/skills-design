@@ -1,0 +1,18 @@
+{
+  "name": "emil-design-eng",
+  "displayName": "Design Engineering",
+  "description": "Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "design",
+    "design-engineering",
+    "ui",
+    "taste"
+  ]
+}

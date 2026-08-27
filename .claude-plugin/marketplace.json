@@ -1,0 +1,84 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "skills-design",
+  "owner": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "description": "Skills for designers and engineers building better user interfaces — animation, design engineering, and taste, distilled from Emil Kowalski's work at Vercel and Linear.",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "emil-design-eng",
+      "source": "./skills/emil-design-eng",
+      "description": "Emil Kowalski's philosophy on UI polish, component design, animation decisions, and the invisible details that make software feel great.",
+      "category": "design"
+    },
+    {
+      "name": "animate",
+      "source": "./skills/animate",
+      "description": "Build an animation from scratch with the right easing, duration, properties, and exit behavior.",
+      "category": "animation"
+    },
+    {
+      "name": "animate-expo",
+      "source": "./skills/animate-expo",
+      "description": "Build React Native and Expo animations that survive a strict review on a real device.",
+      "category": "animation"
+    },
+    {
+      "name": "review-animations",
+      "source": "./skills/review-animations",
+      "description": "Review animation and motion code against a high craft bar.",
+      "category": "animation"
+    },
+    {
+      "name": "improve-animations",
+      "source": "./skills/improve-animations",
+      "description": "Audit a codebase's animations and get prioritized, self-contained implementation plans.",
+      "category": "animation"
+    },
+    {
+      "name": "find-animation-opportunities",
+      "source": "./skills/find-animation-opportunities",
+      "description": "Search a UI for places that would genuinely benefit from motion, and what not to animate.",
+      "category": "animation"
+    },
+    {
+      "name": "animation-vocabulary",
+      "source": "./skills/animation-vocabulary",
+      "description": "Reverse-lookup glossary for naming animation and motion effects.",
+      "category": "animation"
+    },
+    {
+      "name": "apple-design",
+      "source": "./skills/apple-design",
+      "description": "Apple's principles for interface design and fluid motion, translated for the web.",
+      "category": "design"
+    },
+    {
+      "name": "write-swift",
+      "source": "./skills/write-swift",
+      "description": "Write modern Swift: value types, Swift 6 concurrency, generics, performance, and Swift Testing.",
+      "category": "language"
+    },
+    {
+      "name": "pick-ui-library",
+      "source": "./skills/pick-ui-library",
+      "description": "Pick the right frontend library for a task, from a curated, opinionated list.",
+      "category": "ui-library"
+    },
+    {
+      "name": "prototype",
+      "source": "./skills/prototype",
+      "description": "Build multiple versions of a UI piece and flip through them with a visual picker.",
+      "category": "design"
+    },
+    {
+      "name": "ask-sonner",
+      "source": "./skills/ask-sonner",
+      "description": "Guide to Sonner: setup, styling, recipes, and fixes for the toast library.",
+      "category": "ui-library"
+    }
+  ]
+}

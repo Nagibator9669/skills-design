@@ -1,0 +1,17 @@
+{
+  "name": "pick-ui-library",
+  "displayName": "Pick UI Library",
+  "description": "Pick the right library for a given frontend task from a curated, opinionated list \u2014 toasts, charts, command menus, drag and drop, and more.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://animations.dev/"
+  },
+  "homepage": "https://animations.dev/",
+  "license": "MIT",
+  "keywords": [
+    "ui-library",
+    "frontend",
+    "dependencies"
+  ]
+}

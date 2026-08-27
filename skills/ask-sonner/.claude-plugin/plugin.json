@@ -1,0 +1,18 @@
+{
+  "name": "ask-sonner",
+  "displayName": "Ask Sonner",
+  "description": "Setup, styling, recipes, and fixes for Sonner, Emil Kowalski's React toast library.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Emil Kowalski",
+    "url": "https://sonner.emilkowal.ski"
+  },
+  "homepage": "https://sonner.emilkowal.ski",
+  "license": "MIT",
+  "keywords": [
+    "sonner",
+    "toast",
+    "react",
+    "ui-library"
+  ]
+}
